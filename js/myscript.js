@@ -29,6 +29,6 @@ var app = new Vue ({
       if (this.fotoIndex < 0) {
         this.fotoIndex = this.foto.length - 1;
       }
-    }
+    },
   }
 });
